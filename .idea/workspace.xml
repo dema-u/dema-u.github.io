@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="" />
+    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_form/contact_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_1_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_2_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_3_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_4_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_5_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_6_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_7_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog_post_8_full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-7.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -11,22 +62,79 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dema-u.github.io" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1097">
-              <caret line="69" column="89" selection-start-line="69" selection-start-column="89" selection-end-line="69" selection-end-column="89" />
+            <state relative-caret-position="795">
+              <caret line="623" column="31" lean-forward="true" selection-start-line="623" selection-start-column="31" selection-end-line="623" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1284">
-              <caret line="1381" column="11" selection-start-line="1381" selection-start-column="11" selection-end-line="1381" selection-end-column="11" />
+            <state relative-caret-position="405">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio-4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio-5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio-6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio-7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -39,7 +147,11 @@
       <find>skill-container</find>
       <find>Contact</find>
       <find>Download</find>
+      <find>full</find>
     </findStrings>
+    <replaceStrings>
+      <replace>2</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +162,13 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/portfolio-1.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio-2.html" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio-3.html" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio-4.html" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio-5.html" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio-6.html" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio-7.html" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio-1.html" />
       </list>
     </option>
   </component>
@@ -94,7 +213,19 @@
             <path>
               <item name="dema-u.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dema-u.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="full" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dema-u.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dema-u.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dema-u.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dema-u.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,6 +240,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,19 +276,22 @@
       <updated>1562354129137</updated>
       <workItem from="1562354132407" duration="999000" />
       <workItem from="1562424067324" duration="7742000" />
+      <workItem from="1562513578754" duration="4982000" />
+      <workItem from="1562524018260" duration="271000" />
+      <workItem from="1562524363081" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8741000" />
+    <option name="totallyTimeSpent" value="14202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18927065" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.18927065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50102043" side_tool="true" weight="0.18927065" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -165,7 +300,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -199,24 +334,67 @@
         <state relative-caret-position="-28" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-1.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1284">
+        <state relative-caret-position="889">
           <caret line="1381" column="11" selection-start-line="1381" selection-start-column="11" selection-end-line="1381" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio-1.html">
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio-6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio-7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1097">
-          <caret line="69" column="89" selection-start-line="69" selection-start-column="89" selection-end-line="69" selection-end-column="89" />
+        <state relative-caret-position="795">
+          <caret line="623" column="31" lean-forward="true" selection-start-line="623" selection-start-column="31" selection-end-line="623" selection-end-column="31" />
         </state>
       </provider>
     </entry>
