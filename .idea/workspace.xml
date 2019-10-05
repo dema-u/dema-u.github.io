@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="Portfolio pics" />
+    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="Portfolio pics">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/9/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/9/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-9.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,24 +26,15 @@
   <component name="FavoritesManager">
     <favorites_list name="dema-u.github.io" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>skill</find>
-      <find>skill-container</find>
-      <find>Contact</find>
-      <find>Download</find>
-      <find>full</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>2</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RKdlD0cKmckP5dYS8bIJfEpoUT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images/portfolio/9" />
@@ -85,6 +91,7 @@
       <workItem from="1562621945493" duration="128000" />
       <workItem from="1569419873626" duration="1255000" />
       <workItem from="1569430428865" duration="453000" />
+      <workItem from="1570288431061" duration="4880000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio pics">
       <created>1562524656473</created>
@@ -113,6 +120,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Portfolio pics" />
     <option name="LAST_COMMIT_MESSAGE" value="Portfolio pics" />
   </component>
@@ -121,7 +129,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/portfolio/portfolio-1.html</url>
-          <line>41</line>
+          <line>37</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
