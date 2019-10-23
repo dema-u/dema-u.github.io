@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="Added info + CV">
-      <change afterPath="$PROJECT_DIR$/images/portfolio/10/1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/11/1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/12/1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio-12.html" afterDir="false" />
+    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/files/CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CV.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pages-switcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pages-switcher.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +82,7 @@
       <workItem from="1569419873626" duration="1255000" />
       <workItem from="1569430428865" duration="453000" />
       <workItem from="1570288431061" duration="5250000" />
-      <workItem from="1571834941872" duration="5196000" />
+      <workItem from="1571834941872" duration="5669000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio pics">
       <created>1562524656473</created>
@@ -105,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570295070909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Portfolio Updated">
+      <created>1571841959599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571841959599</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +128,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Portfolio pics" />
     <MESSAGE value="Added info + CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added info + CV" />
+    <MESSAGE value="Portfolio Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Portfolio Updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

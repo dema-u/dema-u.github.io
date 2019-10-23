@@ -170,7 +170,7 @@ var PageTransitions = (function ($, options) {
 
         // Checking for 'data-animation' attribute.
         if (!($pageTrigger.attr('data-animation'))) {
-            var animNumber = parseInt(Math.floor(Math.random() * 67) + 1);
+            var animNumber = parseInt(Math.floor(Math.random() * 1) + 1);
             $pageTrigger.data('animation',animNumber);
         }
 
@@ -193,7 +193,7 @@ var PageTransitions = (function ($, options) {
         }
 
         switch(selectedAnimNumber) {
-            case 1:
+            case 7:
                 inClass = 'pt-page-moveFromRight';
                 outClass = 'pt-page-moveToLeft';
                 break;
@@ -217,9 +217,9 @@ var PageTransitions = (function ($, options) {
                 inClass = 'pt-page-moveFromLeft pt-page-ontop';
                 outClass = 'pt-page-fade';
                 break;
-            case 7:
-                inClass = 'pt-page-moveFromBottom pt-page-ontop';
-                outClass = 'pt-page-fade';
+            case 1:
+                inClass = 'pt-page-moveFromTop';
+                outClass = 'pt-page-moveToBottom';
                 break;
             case 8:
                 inClass = 'pt-page-moveFromTop pt-page-ontop';
