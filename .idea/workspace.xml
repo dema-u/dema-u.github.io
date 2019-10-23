@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="Portfolio Updated">
+    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/10/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/10/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/11/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/11/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/12/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/12/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,8 @@
       <workItem from="1569430428865" duration="453000" />
       <workItem from="1570288431061" duration="5250000" />
       <workItem from="1571834941872" duration="5734000" />
-      <workItem from="1571842695664" duration="73000" />
+      <workItem from="1571842695664" duration="129000" />
+      <workItem from="1571842937220" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio pics">
       <created>1562524656473</created>
@@ -106,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571841959599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Picture fix">
+      <created>1571842780834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571842780834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +136,8 @@
     <MESSAGE value="Portfolio pics" />
     <MESSAGE value="Added info + CV" />
     <MESSAGE value="Portfolio Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Portfolio Updated" />
+    <MESSAGE value="Picture fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Picture fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
