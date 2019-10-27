@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-9.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +88,8 @@
       <workItem from="1570288431061" duration="5250000" />
       <workItem from="1571834941872" duration="5734000" />
       <workItem from="1571842695664" duration="129000" />
-      <workItem from="1571842937220" duration="511000" />
+      <workItem from="1571842937220" duration="1283000" />
+      <workItem from="1572028657873" duration="3790000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio pics">
       <created>1562524656473</created>

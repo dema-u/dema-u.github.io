@@ -60,7 +60,10 @@
                     </ul>
 
                     <p class="text-justify">A Kaggle task where the task is to predict the scalar coupling constant between any two atoms in a molecule given the distance between every atom in the said molecule.</p>
-                    <p class="text-justify">The main challenge was to represent the molecule as a whole and quantify how the structure of the molecule affects any given scalar coupling constant. The final solution was a DDTN network, which solved this task to a reasonable degree of accuracy.</p>
+                    <p class="text-justify">The main challenge was to represent the molecule as a whole and quantify how the structure of the molecule affects any given scalar coupling constant. In the final solution
+                        we represented molecules in 3D space where the relative distance and angles between the molecules were preserved. We then built 3D convolution networks which convolved over the 3D representation of the molecules and output the coupling constant.</p>
+                    <p class="text-justify"> This methodology outperformed multiple benchmarks on Kaggle, but as we realised later, representing the molecule in 3D space was not the best solution
+                        and solutions which represented the molecules in a more condensed manner were the winners.</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->

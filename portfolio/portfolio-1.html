@@ -58,8 +58,14 @@
                         <li><p><i class="fa fa-calendar"></i> June, 2019</p></li>
                     </ul>
 
-                    <p class="text-justify">Built a system which extracts vocal information from songs. The approach used to solve this task was an autoencoder, which is trained with short time fourier transform of songs and their respective vocals.</p>
-                    <p class="text-justify">Final result was 2db SNR on the vocal extracted.</p>
+                    <p class="text-justify">Built a system which extracts vocal information from songs.</p>
+                    <p class="text-justify">The approach used to solve this problem was to break the songs and vocals into
+                        their frequency spectra by taking the short-time fourier transforms. We then trained CNN auto-encoders to obtain
+                        the vocals frequency spectrum from the song spectrum.</p>
+                    <p class="text-justify">Our biggest issue was obtaining the data, because we needed to find data
+                         where the acapellas perfectly aligned its respective songs. After finding a dataset of about 100 songs, the final result achieved was 0.7db SNR on the vocal extracted.
+                         The interesting observation was that the SNR per song was very dependant on the genre. Genres like pop where the songs are dominated by a loud and clear vocal achieved higher SNRs
+                    then something like dance music where vocals were more in the background.</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
