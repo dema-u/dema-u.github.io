@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CV.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +102,7 @@
       <workItem from="1583170750219" duration="2361000" />
       <workItem from="1584096349688" duration="624000" />
       <workItem from="1609962419197" duration="3000000" />
+      <workItem from="1625582456067" duration="1955000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio pics">
       <created>1562524656473</created>
