@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="Update to content">
-      <change afterPath="$PROJECT_DIR$/images/portfolio/14/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/full/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio-14.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-14.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +113,8 @@
       <workItem from="1609962419197" duration="3000000" />
       <workItem from="1625582456067" duration="3413000" />
       <workItem from="1626392269275" duration="9114000" />
+      <workItem from="1633599981652" duration="941000" />
+      <workItem from="1633601206775" duration="276000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio pics">
       <created>1562524656473</created>
