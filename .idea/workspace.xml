@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="">
+    <list default="true" id="f44fa6fc-dc95-4e22-a5dd-54da2d8e91e1" name="Default Changelist" comment="Update to content">
+      <change afterPath="$PROJECT_DIR$/images/portfolio/14/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/full/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio-14.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
@@ -46,9 +50,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dema\Documents\Programming\WebDev\dema-u.github.io\portfolio" />
+      <recent name="C:\Users\Dema\Documents\Programming\WebDev\dema-u.github.io\images\portfolio\14" />
       <recent name="C:\Users\Dema\Documents\Programming\WebDevelopment\dema-u.github.io\images\portfolio\9" />
       <recent name="C:\Users\Dema\Documents\Programming\WebDevelopment\dema-u.github.io\images\portfolio" />
       <recent name="C:\Users\Dema\Documents\Programming\WebDevelopment\dema-u.github.io\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dema\Documents\Programming\WebDev\dema-u.github.io\images\portfolio" />
+      <recent name="C:\Users\Dema\Documents\Programming\WebDev\dema-u.github.io\images\portfolio\full" />
     </key>
   </component>
   <component name="RunManager">
@@ -102,7 +112,8 @@
       <workItem from="1583170750219" duration="2361000" />
       <workItem from="1584096349688" duration="624000" />
       <workItem from="1609962419197" duration="3000000" />
-      <workItem from="1625582456067" duration="1955000" />
+      <workItem from="1625582456067" duration="3413000" />
+      <workItem from="1626392269275" duration="9114000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio pics">
       <created>1562524656473</created>
@@ -188,94 +199,12 @@
     <MESSAGE value="Update to content" />
     <option name="LAST_COMMIT_MESSAGE" value="Update to content" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="879" y="295" key="CommitChangelistDialog2" timestamp="1584096371516">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="879" y="295" key="CommitChangelistDialog2/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1584096371516" />
-    <state width="2539" height="492" key="GridCell.Tab.0.bottom" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.bottom/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.0.center" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.center/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.0.left" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.left/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.0.right" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.right/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.center/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.left/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.right/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.2.bottom" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.bottom/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.2.center" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.center/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.2.left" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.left/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.2.right" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.right/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.3.bottom" timestamp="1583173112343">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.bottom/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112343" />
-    <state width="2539" height="492" key="GridCell.Tab.3.center" timestamp="1583173112343">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.center/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112343" />
-    <state width="2539" height="492" key="GridCell.Tab.3.left" timestamp="1583173112342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.left/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112342" />
-    <state width="2539" height="492" key="GridCell.Tab.3.right" timestamp="1583173112343">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.right/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173112343" />
-    <state x="994" y="417" width="1163" height="566" key="MultipleFileMergeDialog" timestamp="1583173045968">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="994" y="417" width="1163" height="566" key="MultipleFileMergeDialog/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173045968" />
-    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1583173014431">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="873" y="434" key="Vcs.Push.Dialog.v2/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583173014431" />
-    <state x="843" y="437" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583172664110">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="843" y="437" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/575.-1080.2560.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1583172664110" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/portfolio/portfolio-1.html</url>
-          <line>37</line>
+          <line>33</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

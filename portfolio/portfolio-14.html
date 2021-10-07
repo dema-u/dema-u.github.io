@@ -7,20 +7,24 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Audio Source Separation</h1>
+            <h1>Volatility trading algorithm - st patterns</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="../images/portfolio/1/1.png" alt="" />
+                        <img src="../images/portfolio/14/1.png" alt="" />
                     </div>
                 </div>
 
                 <!--
                 <div class="portfolio-page-video embed-responsive embed-responsive-16by9">
-                  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/97102654?auKK                <!--
+                  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/97102654?autoplay=0"></iframe>
+                </div>
+                -->
+
+                <!--
                 <div class="portfolio-page-image">
                     <img src="images/portfolio/1.jpg" alt="">
                 </div>
@@ -50,18 +54,15 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> Dema Ushchapovskyy, Suraj Tirupati</p></li>
-                        <li><p><i class="fa fa-calendar"></i> June, 2019</p></li>
+                        <li><p><i class="fa fa-user"></i> Dema Ushchapovskyy</p></li>
+                        <li><p><i class="fa fa-calendar"></i>  November, 2020/p></li>
                     </ul>
 
-                    <p class="text-justify">Built a system which extracts vocal information from songs.</p>
-                    <p class="text-justify">The approach used to solve this problem was to break the songs and vocals into
-                        their frequency spectra by taking the short-time fourier transforms. We trained CNN auto-encoders to obtain
-                        the vocals frequency spectrum from the song spectrum.</p>
-                    <p class="text-justify">The biggest issue was obtaining the data, because the data needed was
-                         where the acapellas perfectly aligned its respective songs. After finding a dataset of about 100 songs, the final result achieved was 0.7db SNR on the vocal extracted.
-                         The interesting observation was that the SNR per song was very dependant on the genre. Genres like pop where the songs are dominated by a loud and clear vocal achieved higher SNRs
-                    then something like dance music where vocals were more in the background.</p>
+                    <p class="text-justify">After building many RL, ML and mathematical models I need to take these components to the next level</p>
+                    <p class="text-justify">I believe that building models in Jupiter note looks is great, But the
+                        Final solution was to build a variational autoencoder and clustebppe latent representation to identify running regimes of the compressor.
+                        The output distributions of the autoencoder were used to identify causality by ranking features by z-scores.</p>
+                    <p class="text-justify">Final Place: 1st.</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
@@ -70,9 +71,7 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>Python</a></li>
-                            <li><a>Keras</a></li>
-                            <li><a>MATLAB</a></li>
+                            <li><a>Python, Tensorflow Probability</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->
